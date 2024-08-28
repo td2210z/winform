@@ -1,0 +1,10 @@
+D:\Source\WF\bmot\bin\Debug\bmot.exe.config
+D:\Source\WF\bmot\bin\Debug\bmot.exe
+D:\Source\WF\bmot\bin\Debug\bmot.pdb
+D:\Source\WF\bmot\obj\Debug\bmot.csproj.AssemblyReference.cache
+D:\Source\WF\bmot\obj\Debug\bmot.Form1.resources
+D:\Source\WF\bmot\obj\Debug\bmot.Properties.Resources.resources
+D:\Source\WF\bmot\obj\Debug\bmot.csproj.GenerateResource.cache
+D:\Source\WF\bmot\obj\Debug\bmot.csproj.CoreCompileInputs.cache
+D:\Source\WF\bmot\obj\Debug\bmot.exe
+D:\Source\WF\bmot\obj\Debug\bmot.pdb

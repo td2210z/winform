@@ -1,0 +1,10 @@
+D:\Source\WF\wf2\bin\Debug\wf2.exe.config
+D:\Source\WF\wf2\bin\Debug\wf2.exe
+D:\Source\WF\wf2\bin\Debug\wf2.pdb
+D:\Source\WF\wf2\obj\Debug\wf2.csproj.AssemblyReference.cache
+D:\Source\WF\wf2\obj\Debug\wf2.Form1.resources
+D:\Source\WF\wf2\obj\Debug\wf2.Properties.Resources.resources
+D:\Source\WF\wf2\obj\Debug\wf2.csproj.GenerateResource.cache
+D:\Source\WF\wf2\obj\Debug\wf2.csproj.CoreCompileInputs.cache
+D:\Source\WF\wf2\obj\Debug\wf2.exe
+D:\Source\WF\wf2\obj\Debug\wf2.pdb

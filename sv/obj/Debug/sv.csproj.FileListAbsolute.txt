@@ -1,0 +1,10 @@
+D:\Source\WF\sv\bin\Debug\sv.exe.config
+D:\Source\WF\sv\bin\Debug\sv.exe
+D:\Source\WF\sv\bin\Debug\sv.pdb
+D:\Source\WF\sv\obj\Debug\sv.csproj.AssemblyReference.cache
+D:\Source\WF\sv\obj\Debug\sv.Form1.resources
+D:\Source\WF\sv\obj\Debug\sv.Properties.Resources.resources
+D:\Source\WF\sv\obj\Debug\sv.csproj.GenerateResource.cache
+D:\Source\WF\sv\obj\Debug\sv.csproj.CoreCompileInputs.cache
+D:\Source\WF\sv\obj\Debug\sv.exe
+D:\Source\WF\sv\obj\Debug\sv.pdb

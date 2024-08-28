@@ -1,0 +1,10 @@
+D:\Source\WF\Test\Test\Test\bin\Debug\Test.exe.config
+D:\Source\WF\Test\Test\Test\bin\Debug\Test.exe
+D:\Source\WF\Test\Test\Test\bin\Debug\Test.pdb
+D:\Source\WF\Test\Test\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+D:\Source\WF\Test\Test\Test\obj\Debug\Test.Form1.resources
+D:\Source\WF\Test\Test\Test\obj\Debug\Test.Properties.Resources.resources
+D:\Source\WF\Test\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+D:\Source\WF\Test\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\Source\WF\Test\Test\Test\obj\Debug\Test.exe
+D:\Source\WF\Test\Test\Test\obj\Debug\Test.pdb
